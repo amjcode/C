@@ -39,5 +39,3 @@ int main(void)
 }
 
 
-// This comment should be on the tests branch
-
