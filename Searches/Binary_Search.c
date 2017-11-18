@@ -38,4 +38,3 @@ int main(void)
    return 0;
 }
 
-// If I do this correctly, this will end up being merged with branch master
